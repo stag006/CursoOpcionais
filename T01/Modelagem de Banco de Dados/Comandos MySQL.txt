@@ -1,0 +1,16 @@
+Comandos MySQL
+
+mysql -u root -p = logar com usuario root.
+-p = é a senha
+
+show database; = mostra todos os  banco de dados
+show tables; = mostra as tabelas
+show coluns
+create databe "nome do banco de dados"; = Cria o banco de dados e nomeia
+
+use "nome do banco de dados"; = Seleciona o banco
+
+select count(id) from "nome do atributo"; = mostra a quantidade de tal atributos
+
+desc "nome das tables, ou o nome dos atribustos"; = mostra a descrição da tabela e dos atribustos
+
